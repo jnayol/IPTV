@@ -17,6 +17,10 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="Antena3.es@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",Antena 3
 http://92.176.119.180:2095/play/a16j
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional
+http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png",La Sexta
 http://92.176.119.180:2095/play/a16l
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png",La Sexta (2)
