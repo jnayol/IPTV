@@ -7,50 +7,70 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE Play
 https://ztnr.rtve.es/ztnr/6108703.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RNE PARA TODOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RNE Para Todos
 https://ztnr.rtve.es/ztnr/6688753.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",Euronews ES
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/e/26034/euronews-es.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg",STAR TVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg",TVE Deportes
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
-http://38.44.109.41:8003/play/a0fu/index.m3u8
-#EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png",La Sexta
-http://92.176.119.180:2095/play/a16l
-#EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png",La Sexta (2)
-http://92.176.119.180:2095/play/a1ef
-#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png",Cuatro
-http://92.176.119.180:2095/play/a1g2
-#EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/500px-Telecinco.svg.png",Telecinco
-http://92.176.119.180:2095/play/a15y
-#EXTINF:-1 tvg-id="Telecinco.es@SD",Telecinco (1080p)
-http://92.176.119.180:2095/play/a1fq
+#EXTINF:-1 tvg-id="Antena.3.ch" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://logo.m3uassets.com/antena3.png",Antena 3
+https://soursignal.com/2021118968/8gImddiobr/400114364
+#EXTINF:-1 tvg-id="La.Sexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="https://logo.m3uassets.com/lasexta.png",La Sexta
+https://soursignal.com/2021118968/8gImddiobr/400114373
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="https://logo.m3uassets.com/cuatro.png",Cuatro
+https://soursignal.com/2021118968/8gImddiobr/400114366
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://logo.m3uassets.com/telecinco.png",Telecinco
+https://soursignal.com/2021118968/8gImddiobr/400114370
+#EXTINF:-1 tvg-id="Dubai.ae" tvg-name="ES: COSMO HD" tvg-logo="https://logo.m3uassets.com/cosmo.png",Cosmo
+https://soursignal.com/2021118968/8gImddiobr/400114384
 #EXTINF:-1 tvg-id="Neox.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",Neox
 http://92.176.119.180:2095/play/a1eg
-#EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png",Nova
-http://92.176.119.180:2095/play/a1eh
-#EXTINF:-1 tvg-id="Mega.es@SD" tvg-logo="https://i.imgur.com/Udrt2eK.png",Mega
-http://92.176.119.180:2095/play/a178
-#EXTINF:-1 tvg-id="Divinity.es@SD" tvg-logo="https://i.imgur.com/o7fvEr6.png",Divinity
-http://92.176.119.180:2095/play/a1g1
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",FDF
-http://92.176.119.180:2095/play/a15w
-#EXTINF:0 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",Clan TV
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova" tvg-logo="https://logo.m3uassets.com/nova.png",Nova
+https://soursignal.com/2021118968/8gImddiobr/500002189
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES: MEGA FHD" tvg-logo="https://logo.m3uassets.com/mega.png",Mega
+https://soursignal.com/2021118968/8gImddiobr/400114375
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) Divinity" tvg-logo="https://logo.m3uassets.com/divinity.png",Divinity
+https://soursignal.com/2021118968/8gImddiobr/151443
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX FHD" tvg-logo="https://logo.m3uassets.com/dmax.png",DMAX
+https://soursignal.com/2021118968/8gImddiobr/400114259
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: NEOX HD" tvg-logo="https://logo.m3uassets.com/neox.png",Neox
+https://soursignal.com/2021118968/8gImddiobr/400114379
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) BE MAD" tvg-logo="https://logo.m3uassets.com/mad.png",Be Mad
+https://soursignal.com/2021118968/8gImddiobr/151448
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) Clan" tvg-logo="https://logo.m3uassets.com/clan.png",TV Clan
+https://soursignal.com/2021118968/8gImddiobr/151419
+#EXTINF:-1 tvg-id="VAMOS" tvg-name="ES: VAMOS FHD" tvg-logo="https://logo.m3uassets.com/vamos.png",Vamos
+https://soursignal.com/2021118968/8gImddiobr/400114276
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="ES: FDF HD" tvg-logo="https://logo.m3uassets.com/fdf.png",FDF
+https://soursignal.com/2021118968/8gImddiobr/400114240
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) DKISS" tvg-logo="https://logo.m3uassets.com/dkiss.png",DKISS
+https://soursignal.com/2021118968/8gImddiobr/151450
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) ATRESERIES" tvg-logo="https://logo.m3uassets.com/atreseries.png",Atreseries
+https://soursignal.com/2021118968/8gImddiobr/151447
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) Canal Historia" tvg-logo="https://logo.m3uassets.com/canalhistoria.png",Canal Historia
+https://soursignal.com/2021118968/8gImddiobr/151426
+#EXTINF:-1 tvg-id="LoveThePlanet.es@ES" tvg-logo="https://i.imgur.com/RBcD49X.png",Love The Planet
+https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Documentales" tvg-logo="https://logo.m3uassets.com/documentalespormovistarplus.png" ,Movistar Documentales
+https://soursignal.com/2021118968/8gImddiobr/500300839
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Estrenos" tvg-logo="https://logo.m3uassets.com/movistarestrenos.png",Movistar Estrenos
+https://soursignal.com/2021118968/8gImddiobr/500001143
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) Sundance TV" tvg-logo="https://logo.m3uassets.com/sundancetv.png",Sundance TV
+https://soursignal.com/2021118968/8gImddiobr/151413
+#EXTINF:-1 tvg-id="" tvg-name="(ES) (VF) AXN Movies" tvg-logo="https://logo.m3uassets.com/axn.png",AXN Movies
+https://soursignal.com/2021118968/8gImddiobr/151407
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png",Cine Friki
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-logo="https://i.imgur.com/2UROzSc.png",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png",Bom Cine
-http://92.176.119.180:2095/play/a17f
-#EXTINF:-1 tvg-id="LoveThePlanet.es@ES" tvg-logo="https://i.imgur.com/RBcD49X.png",Love The Planet
-https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bom Cine" tvg-logo="https://logo.m3uassets.com/bomcine.png",Bom Cine
+https://soursignal.com/2021118968/8gImddiobr/500075926
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png",Accion Movies Spain
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png",Comedia Movies
