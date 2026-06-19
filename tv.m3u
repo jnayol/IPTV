@@ -7,20 +7,20 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-name="Euronews",Euronews
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
-#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png",TVE Star
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE PLAY
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RNE PARA TODOS
+https://ztnr.rtve.es/ztnr/6688753.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/e/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg",STAR TVE
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg",TVE Deportes
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="Antena3.es@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",Antena 3
-http://92.176.119.180:2095/play/a16j
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional
-http://177.10.184.193:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional
-http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
+http://38.44.109.41:8003/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png",La Sexta
 http://92.176.119.180:2095/play/a16l
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png",La Sexta (2)
@@ -29,6 +29,8 @@ http://92.176.119.180:2095/play/a1ef
 http://92.176.119.180:2095/play/a1g2
 #EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/500px-Telecinco.svg.png",Telecinco
 http://92.176.119.180:2095/play/a15y
+#EXTINF:-1 tvg-id="Telecinco.es@SD",Telecinco (1080p)
+http://92.176.119.180:2095/play/a1fq
 #EXTINF:-1 tvg-id="Neox.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",Neox
 http://92.176.119.180:2095/play/a1eg
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png",Nova
@@ -65,13 +67,3 @@ https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Spain" tvg-logo="https://i.imgur.com/yH7n2dF.png",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
