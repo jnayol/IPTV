@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NL: NPO Nieuws" tvg-logo="https://logo.m3uassets.com/nponieuws.png",NPO Nieuws
 https://soursignal.com/2021118968/8gImddiobr/500005314
-#EXTINF:-1 tvg-id="VERONL" tvg-name="NL: VERONICA HD / DISNEY XD" tvg-logo="https://logo.m3uassets.com/veronicadisneyxd.png",VERONICA HD / DISNEY XD
-https://soursignal.com/2021118968/8gImddiobr/400116377
+#EXTINF:-1 tvg-id="NET25" tvg-name="NL: NET 5 HD" tvg-logo="https://logo.m3uassets.com/net5.png",NET 5
+https://soursignal.com/2021118968/8gImddiobr/400116374
 #EXTINF:-1 tvg-id="" tvg-name="Netherland  NPO 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/250px-NPO_1_logo_2014.svg.png",NPO 1
 https://soursignal.com/2021118968/8gImddiobr/600010509
 #EXTINF:-1 tvg-id="" tvg-name="Netherland  NPO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/250px-NPO_2_logo_2014.svg.png",NPO 2
@@ -13,8 +13,8 @@ https://soursignal.com/2021118968/8gImddiobr/600010511
 https://soursignal.com/2021118968/8gImddiobr/400116375
 #EXTINF:-1 tvg-id="" tvg-name="NL: SBS 9 FHD" tvg-logo="https://logo.m3uassets.com/sbs9.png",SBS 9
 https://soursignal.com/2021118968/8gImddiobr/400116376
-#EXTINF:-1 tvg-id="NET25" tvg-name="NL: NET 5 HD" tvg-logo="https://logo.m3uassets.com/net5.png",NET 5
-https://soursignal.com/2021118968/8gImddiobr/400116374
+#EXTINF:-1 tvg-id="VERONL" tvg-name="NL: VERONICA HD / DISNEY XD" tvg-logo="https://logo.m3uassets.com/veronicadisneyxd.png",VERONICA HD / DISNEY XD
+https://soursignal.com/2021118968/8gImddiobr/400116377
 #EXTINF:-1 tvg-id="" tvg-name="Netherland  RTL 5 HD" tvg-logo="https://img.favpng.com/2/20/6/logo-rtl-5-television-rtl-nederland-rtl-8-png-favpng-8gpi0wVwrzURtXewPQan1X3JC.jpg",RTL 5
 https://soursignal.com/2021118968/8gImddiobr/600010513
 
