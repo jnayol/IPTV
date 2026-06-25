@@ -45,22 +45,28 @@ https://soursignal.com/2021118968/8gImddiobr/400114230
 https://soursignal.com/2021118968/8gImddiobr/400114249
 #EXTINF:-1 tvg-id="Canal.Decasa.es" tvg-name="Canal de Casa" tvg-logo="https://logo.m3uassets.com/canaldecasa.png" group-title="Canales ES",Canal de Casa
 https://soursignal.com/2021118968/8gImddiobr/400114262
-#EXTINF:-1 tvg-id="Historia.es" tvg-name="Canal Historia" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="Canales ES",Canal Historia
-https://soursignal.com/2021118968/8gImddiobr/400114258
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-name="Discovery Channel" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Canales ES",Discovery Channel
 https://soursignal.com/2021118968/8gImddiobr/400114255
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="Canal Historia" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="Canales ES",Canal Historia
+https://soursignal.com/2021118968/8gImddiobr/400114258
 #EXTINF:-1 tvg-id="NationalGeographicEspana.us" tvg-name="National Geographic" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="Canales ES",National Geographic
 https://soursignal.com/2021118968/8gImddiobr/400114251
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic Wild" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="Canales ES",Nat Geographic Wild
+https://soursignal.com/2021118968/8gImddiobr/600010417
 #EXTINF:-1 tvg-id="LoveThePlanet.es@ES" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="Canales ES",Love The Planet
 https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Documentales" tvg-logo="https://logo.m3uassets.com/documentalespormovistarplus.png" group-title="Canales ES",Movistar Documentales
+https://soursignal.com/2021118968/8gImddiobr/500300839
 #EXTINF:-1 tvg-id="ThePetCollective.us@Spain" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Canales ES",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Odisea TV" tvg-logo="https://logo.m3uassets.com/canalodisea.png" group-title="Canales ES",Odisea TV
 https://soursignal.com/2021118968/8gImddiobr/400114267
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://logo.m3uassets.com/sundancetv.png" group-title="Canales ES",Sundance TV
 https://soursignal.com/2021118968/8gImddiobr/151413
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Documentales" tvg-logo="https://logo.m3uassets.com/documentalespormovistarplus.png" group-title="Canales ES",Movistar Documentales
-https://soursignal.com/2021118968/8gImddiobr/500300839
+#EXTINF:-1 tvg-id="" tvg-name="Dark TV" tvg-logo="https://logo.m3uassets.com/dark.png" group-title="Canales ES",Dark TV
+https://soursignal.com/2021118968/8gImddiobr/600010487
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="https://logo.m3uassets.com/movistaraccion.png" group-title="Canales ES",Movistar Accion
+https://soursignal.com/2021118968/8gImddiobr/600010375
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="https://logo.m3uassets.com/movistarestrenos.png" group-title="Canales ES",Movistar Estrenos
 https://soursignal.com/2021118968/8gImddiobr/9529
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="https://logo.m3uassets.com/movistarseries.png" group-title="Canales ES",Movistar Series
